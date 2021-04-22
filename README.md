@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tomnowell
+- 👀 I’m interested in teaching, coding, music, English.
+- 🌱 I’m currently learning Node.js and life.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 email: tom@tomnowell.com
