@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tomnowell
 - 👀 I’m interested in teaching, coding, music, English.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m learning everything, very, very, very slowly.
 - 💞️ I’m currently studying so I can collaborate with y'all!
 - 📫 email: tom@tomnowell.com
