@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tomnowell
-- 👀 I’m interested in teaching, coding, music, English.
-- 🌱 I’m learning everything, very, very, very slowly.
-- 💞️ I’m currently studying so I can collaborate with y'all!
+- 👀 I’m interested in teaching, coding, security, cloud, music, English.
+- 🌱 I'm a MSc Computer Science student.
+- 💞️ I like running!
 - 📫 email: tom@tomnowell.com
